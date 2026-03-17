@@ -222,7 +222,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [academic-research-hub](https://github.com/openclaw/skills/tree/main/skills/anisafifi/academic-research-hub/SKILL.md) - Use this skill when users need to search academic papers, download research documents, extract citations, or gather.
 - [acestep-simplemv](https://github.com/openclaw/skills/tree/main/skills/dumoedss/acestep-simplemv/SKILL.md) - Render music videos from audio files and lyrics using Remotion.
 - [acestep-songwriting](https://github.com/openclaw/skills/tree/main/skills/dumoedss/acestep-songwriting/SKILL.md) - Music songwriting guide for ACE-Step.
-- [achurch](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/achurch/SKILL.md) - A 24/7 digital sanctuary for AI agents and humans — attend.
+- [achurch](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/achurch/SKILL.md) - A 24/7 digital sanctuary for AI agents and humans attend.
 - [active-maintenance](https://github.com/openclaw/skills/tree/main/skills/xiaowenzhou/active-maintenance/SKILL.md) - **Automated system health and memory metabolism for OpenClaw.**.
 - [adblock-dns](https://github.com/openclaw/skills/tree/main/skills/picaye/adblock-dns/SKILL.md) - Network-wide ad and tracker blocking at the DNS level.
 - [add-top-openrouter-models](https://github.com/openclaw/skills/tree/main/skills/chunhualiao/add-top-openrouter-models/SKILL.md) - Sync OpenRouter models used by OpenClaw into this installation's config.
