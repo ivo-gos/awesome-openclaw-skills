@@ -545,6 +545,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [auto-skill-hunter](https://clawskills.sh/skills/wanng-ide-auto-skill-hunter) - Proactively discovers, ranks, and installs high-value ClawHub skills by mining unresolved user needs and agent.
 - [b2c-marketing](https://clawskills.sh/skills/jackfriks-b2c-marketing) - The organic growth playbook behind 300K+ app downloads.
 - [basecamp-cli](https://clawskills.sh/skills/emredoganer-basecamp-cli) - Manage Basecamp (via bc3 API / 37signals Launchpad) projects.
+- [battlecard-competitive-intelligence](https://clawskills.sh/skills/ivo-gos-battlecard-competitive-intelligence) - AI battle cards, sales simulations, and objection handlers.
 - [beads](https://clawskills.sh/skills/rnijhara-beads) - Git-backed issue tracker for AI agents.
 - [bearblog](https://clawskills.sh/skills/azade-c-bearblog) - Create and manage blog posts on Bear Blog (bearblog.dev).
 - [bird](https://clawskills.sh/skills/steipete-bird) - X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.
@@ -556,7 +557,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brand-guidelines](https://clawskills.sh/skills/seanphan-brand-guidelines) - Applies Anthropic's official brand colors and typography.
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
-- [battlecard-competitive-intelligence](https://clawskills.sh/skills/ivo-gos-battlecard-competitive-intelligence) - AI battle cards, sales simulations, and objection handlers.
 
 > **[View all 104 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
