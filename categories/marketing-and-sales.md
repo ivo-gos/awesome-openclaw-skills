@@ -29,6 +29,7 @@
 - [brand-cog](https://clawskills.sh/skills/nitishgargiitd-brand-cog) - Other tools make logos.
 - [brand-guidelines](https://clawskills.sh/skills/seanphan-brand-guidelines) - Applies Anthropic's official brand colors and typography.
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
+- [battlecard-competitive-intelligence](https://github.com/ivo-gos/battlecard-openclaw-skill) - AI battle cards, sales simulations, and objection handlers.
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
 - [britebooth-procurement](https://clawskills.sh/skills/vismonkey19-britebooth-procurement) - Read-only assistant for BriteBooth.com.
 - [brw-marketing-principles](https://clawskills.sh/skills/brianrwagner-brw-marketing-principles) - Apply timeless marketing and business principles to any problem.

@@ -552,6 +552,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [blog-writer](https://clawskills.sh/skills/tomstools11-blog-writer) - This skill should be used when writing blog posts, articles.
 - [bluesky](https://clawskills.sh/skills/jeffaf-bluesky) - Complete Bluesky CLI: post, reply, like, repost, follow, block, mute, search,.
 - [botsee](https://clawskills.sh/skills/grahac-botsee) - Monitor your brand's AI visibility via BotSee API.
+- [battlecard-competitive-intelligence](https://github.com/ivo-gos/battlecard-openclaw-skill) - AI battle cards, sales simulations, and objection handlers.
 - [brand-cog](https://clawskills.sh/skills/nitishgargiitd-brand-cog) - Other tools make logos.
 - [brand-guidelines](https://clawskills.sh/skills/seanphan-brand-guidelines) - Applies Anthropic's official brand colors and typography.
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
