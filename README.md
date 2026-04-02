@@ -545,6 +545,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [auto-skill-hunter](https://clawskills.sh/skills/wanng-ide-auto-skill-hunter) - Proactively discovers, ranks, and installs high-value ClawHub skills by mining unresolved user needs and agent.
 - [b2c-marketing](https://clawskills.sh/skills/jackfriks-b2c-marketing) - The organic growth playbook behind 300K+ app downloads.
 - [basecamp-cli](https://clawskills.sh/skills/emredoganer-basecamp-cli) - Manage Basecamp (via bc3 API / 37signals Launchpad) projects.
+- [battlecard-competitive-intelligence](https://github.com/ivo-gos/battlecard-openclaw-skill) - AI battle cards, sales simulations, and objection handlers.
 - [beads](https://clawskills.sh/skills/rnijhara-beads) - Git-backed issue tracker for AI agents.
 - [bearblog](https://clawskills.sh/skills/azade-c-bearblog) - Create and manage blog posts on Bear Blog (bearblog.dev).
 - [bird](https://clawskills.sh/skills/steipete-bird) - X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.
@@ -552,7 +553,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [blog-writer](https://clawskills.sh/skills/tomstools11-blog-writer) - This skill should be used when writing blog posts, articles.
 - [bluesky](https://clawskills.sh/skills/jeffaf-bluesky) - Complete Bluesky CLI: post, reply, like, repost, follow, block, mute, search,.
 - [botsee](https://clawskills.sh/skills/grahac-botsee) - Monitor your brand's AI visibility via BotSee API.
-- [battlecard-competitive-intelligence](https://github.com/ivo-gos/battlecard-openclaw-skill) - AI battle cards, sales simulations, and objection handlers.
 - [brand-cog](https://clawskills.sh/skills/nitishgargiitd-brand-cog) - Other tools make logos.
 - [brand-guidelines](https://clawskills.sh/skills/seanphan-brand-guidelines) - Applies Anthropic's official brand colors and typography.
 - [brand-voice-profile](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile) - Define and store your brand voice profile for consistent content generation.
